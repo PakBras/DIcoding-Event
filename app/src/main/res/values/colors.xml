@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_light">#FFBB86FC</color> <!-- Light purple -->
+    <color name="purple_dark">#FF6200EE</color> <!-- Primary purple -->
+    <color name="purple_variant">#FF3700B3</color> <!-- Dark purple -->
+    <color name="cyan_light">#FF03DAC5</color> <!-- Light cyan -->
+    <color name="cyan_dark">#FF018786</color> <!-- Dark cyan -->
+    <color name="black">#FF000000</color> <!-- Black -->
+    <color name="white">#FFFFFFFF</color> <!-- White -->
+    <color name="green_primary">#36BA98</color> <!-- Green similar to previous green_data_1 -->
+    <color name="charcoal_black">#243642</color> <!-- Elegant black -->
+    <color name="red_favorite">#D62828</color> <!-- Bright red -->
+</resources>
